@@ -1,2 +1,1 @@
 #!/bin/bash
-chown -h vincent:staff_hello
